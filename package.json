@@ -1,6 +1,6 @@
 {
   "name": "slack-alert",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Slack Bot alert message",
   "main": "slack_alert.js",
   "scripts": {
