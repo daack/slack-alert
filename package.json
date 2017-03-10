@@ -1,0 +1,30 @@
+{
+  "name": "slack-alert",
+  "version": "0.1.0",
+  "description": "Slack Bot alert message",
+  "main": "slack_alert.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daack/slack-alert.git"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "Matteo Maselli <mat.maselli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daack/slack-alert/issues"
+  },
+  "homepage": "https://github.com/daack/slack-alert#readme",
+  "dependencies": {
+    "@slack/client": "^3.8.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mockery": "^2.0.0"
+  }
+}
